@@ -2,15 +2,15 @@
 
 **Name of your app** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Jennifer Zecena**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -27,17 +27,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/PYkKVbrCbv.gif'' alt='Gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Some challenges I encountered while creating this app was getting Xcode to run efficiently on my computer and being unsure of how to debug certain error messages. Since my computer's software was not up to date I ran into some trouble when trying to install Xcode. I had to update it multiple times and then when working on the app had to close everything else I was working on so that the wait time every time I wanted to add a new object or make an edit wasn't too long. For the most part I was able to follow the instructional video and create the app without too many errors notifications. However, there was one instance when I made a lot of changes before running tipCalculator and when I tried running it I ran into an Uncaught Exception of Type error. I looked up how to fix the error, but despite my efforts was not able to get the app to run successfully. I wasn't too far into the building process so I decided that it would take less time to start again, this time running the app to make sure that things worked everytime I made a significant change in the cose. On my second attemp the building process went much more smoothly. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Jennifer Zecena]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
