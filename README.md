@@ -4,7 +4,7 @@
 
 Submitted by: **Jennifer Zecena**
 
-Time spent: **3** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -23,13 +23,13 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough 
+## Gif 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented Tip Calculator:
 
 <img src="http://g.recordit.co/PYkKVbrCbv.gif" width=250><br>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit.co]
 
 ## Notes
 Some challenges I encountered while creating this app was getting Xcode to run efficiently on my computer and being unsure of how to debug certain error messages. Since my computer's software was not up to date I ran into some trouble when trying to install Xcode. I had to update it multiple times and then when working on the app had to close everything else I was working on so that the wait time every time I wanted to add a new object or make an edit wasn't too long. For the most part I was able to follow the instructional video and create the app without too many errors notifications. However, there was one instance when I made a lot of changes before running tipCalculator and when I tried running it I ran into an Uncaught Exception of Type error. I looked up how to fix the error, but despite my efforts was not able to get the app to run successfully. I wasn't too far into the building process so I decided that it would take less time to start again, this time running the app to make sure that things worked everytime I made a significant change in the cose. On my second attemp the building process went much more smoothly. 
